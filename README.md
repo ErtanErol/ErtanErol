@@ -7,3 +7,6 @@
   - :bulb: [İnstagram](https://instagram.com/ichbinertan)
   - :office: [Reddit](https://www.reddit.com/user/software-engineer4)
   - :speaker: [Spotify](https://open.spotify.com/user/87j7ivxpq2h4dmoazpc9cwu5j?si=yUDpdGVWT8qFy0elBBel5g)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErtanErol)](https://github.com/ErtanErol/github-readme-stats)
