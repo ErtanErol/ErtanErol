@@ -9,7 +9,7 @@ I like to explore new technologies and learning.
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-<code> src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
@@ -24,7 +24,7 @@ I like to explore new technologies and learning.
 You can find and get touch with me on these accounts!
 
 
-[![Instagram Badge](https://img.shields.io/badge/Sametkaya-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/ichbinertan/)
+[![Instagram Badge](https://img.shields.io/badge/Ertan Erol-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/ichbinertan/)
 
 
 ### Github Analytics
