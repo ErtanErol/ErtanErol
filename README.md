@@ -20,7 +20,7 @@ I like to explore new technologies and learning.
 You can find and get touch with me on these accounts!
 
 
-[![Instagram Badge](https://img.shields.io/badge/Ertan Erol-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/ichbinertan/)
+[![Instagram Badge](https://www.instagram.com/ichbinertan/)
 
 
 ### Github Analytics
