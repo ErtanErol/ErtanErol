@@ -20,7 +20,7 @@ I like to explore new technologies and learning.
 You can find and get touch with me on these accounts!
 
 
-[Instagram Badge](https://www.instagram.com/ichbinertan/)
+[Instagram](https://www.instagram.com/ichbinertan/)
 
 
 ### Github Analytics
