@@ -17,7 +17,7 @@ I like to explore new technologies and learning.
 <h3 align="left">Contact Me 📫</h3>
 
 
-You can find and get touch with me on these accounts!
+You can find and get touch with me on this account!
 
 
 [Instagram](https://www.instagram.com/ichbinertan/)
