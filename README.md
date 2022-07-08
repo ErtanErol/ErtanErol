@@ -1,4 +1,4 @@
-Hello, I'm Ertan Erol, I want to be become a software engineer. I"m working hard for this goals. My passion for software is to imagine ideas.
+Hi, I'm Ertan Erol and I want to be become a software engineer. I"m working hard for this goal. My passion for software is to imagine ideas.
 
 I like to explore new technologies and learning.
 
@@ -17,7 +17,7 @@ I like to explore new technologies and learning.
 <h3 align="left">Contact Me 📫</h3>
 
 
-You can find and get touch with me on this account!
+
 
 
 [Instagram](https://www.instagram.com/ichbinertan/)
